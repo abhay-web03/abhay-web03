@@ -1,5 +1,11 @@
 # Hi 👋, I'm Abhay Gupta
 
+<div align="center">
+
+<img src="./assets/developer.gif" width="100%" alt="Developer coding animation">
+
+</div>
+
 ### 🚀 B.Tech 4th Year Student | Java Developer | Backend & AI/ML Enthusiast
 
 I'm passionate about **software development, Java, backend technologies, and AI/ML**. I enjoy building practical projects, solving programming problems, and continuously learning new technologies.
