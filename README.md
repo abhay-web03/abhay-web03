@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm Abhay Gupta,  passionate about Software Development,  I enjoy building projects, solving programming problems, and learning new technologies. Currently, I'm focusing on Java, Spring Boot, MySQL, Data Structures & Algorithms, and Full-Stack Development.
-
+Hi, I'm Abhay Gupta,  passionate about Software Development,  I enjoy building projects, solving programming problems, and learning new technologies. 
 🚀 I'm always looking for opportunities to improve my coding skills, work on real-world projects, and collaborate with other developers.
 
 
@@ -44,15 +43,6 @@ Hi, I'm Abhay Gupta,  passionate about Software Development,  I enjoy building p
 * Git & GitHub
 * VS Code
 * IntelliJ IDEA
-
-**Concepts**
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* DBMS
-* SQL
-* Backend Development
-
-
 
 **Technologies:** Java | Spring Boot | MySQL | REST API
 
