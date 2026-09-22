@@ -1,6 +1,10 @@
 # Hi 👋, I'm Abhay Gupta
 
+<div align="center">
 
+<img src="./WhatsApp%20Image%202026-09-23%20at%2012.17.05%20AM.jpeg" width="100%" alt="Developer coding">
+
+</div>
 
 
 
